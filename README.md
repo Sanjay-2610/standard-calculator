@@ -95,8 +95,10 @@ Start the Django Server
 ```
 ## OUTPUT:
 ### Client Side
-![client_side]('/images/client_side-2.png')
+![client_side-2](https://github.com/Sanjay-2610/standard-calculator/assets/91368803/fc7f0d9c-e7e4-4012-afd3-01c904caa169)
+
 ### Server Side
-![server_side]('/image/server_side-2.png')
+![server_side-2](https://github.com/Sanjay-2610/standard-calculator/assets/91368803/73051acb-d1de-4919-89ee-bad6f4123d33)
+
 ## Result:
 Thus the program for the simple calculator executed successfully.
